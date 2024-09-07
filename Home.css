@@ -1,0 +1,35 @@
+body{
+    background-image: url('image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:red;
+    
+}
+p{
+    text-align: center;
+    color:darkcyan;
+}
+div h1{
+    margin-left: 300px;
+   font-size: 50px;
+}
+div h1:hover{
+    transform: scale(1.1);
+    color:rgb(226, 96, 9);
+}
+nav ul{
+    text-align: center;
+}
+nav ul button{
+    display: inline;
+    color:rgb(17, 95, 211);
+    
+}
+.first
+{
+    margin-left: 120px;
+
+}
+.second{
+    margin-left: 20px;
+}
